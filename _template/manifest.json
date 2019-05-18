@@ -9,7 +9,7 @@
       "enableExternalDirectory": false,
       "formFactor": "phone",
       "name": "__PACKAGE__",
-      "orientation": "portrait",
+      "orientation": "landscape",
       "packageName": "__PACKAGE__",
       "useGoogleContactsSyncAdapter": false,
       "usePlayServices": [ "gcm" ]
